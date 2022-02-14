@@ -5,3 +5,6 @@ import (
 func GetMessage() string {
 	return "Hello 🗺️!"
 }
+func main() {
+	GetMessage()
+}
